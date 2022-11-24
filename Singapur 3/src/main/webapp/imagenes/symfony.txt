@@ -1,0 +1,31 @@
+Qué lenguaje utiliza el framework?  
+Symfony está desarrollado completamente con PHP 5. 
+Ha sido probado en numerosos proyectos reales y se utiliza en sitios web de comercio electrónico de primer nivel. 
+Symfony es compatible con la mayoría de gestores de bases de datos, como MySQL, PostgreSQL, Oracle y SQL Server de Microsoft.
+
+Quién creó este framework?
+Fabien Potencier
+En el año 2003, Fabien Potencier, creador de Symfony y actual CEO de Sensio Labs, 
+investigó acerca de las herramientas open source existentes para el desarrollo de aplicaciones web en PHP.
+
+Cuál es la cantidad de usuarios o empresas que usan este framework
+Symfony es uno de los frameworks PHP más usados en el mundo. Más de 150.000 desarrolladores utilizan esta colección de componentes, aplicación con más de 20 millones de usuarios.
+Muchas aplicaciones utilizan el Symfony framework para su desarrollo. 
+Por ejemplo, empresas muy conocidas internacionalmente o a nivel nacional tales como: 
+BlaBlaCar, Trivago, Spotify, Magento o Drupal lo usan. 
+
+Cuál es el costo asociado al uso de este framework?
+Utilizar Symfony es gratuito, incluso aunque crees aplicaciones y programas que después vendas a otros clientes. 
+A pesar de esta gratuidad, se ha desarrollado un ecosistema de empresas que viven de Symfony gracias a la formación, consultoría y desarrollo de proyectos.
+Su licencia de tipo MIT permite crear gratuitamente incluso aplicaciones comerciales.
+
+Qué puedo hacer con este framework?
+Permite crear desde sitios webs sencillos hasta macro proyectos y aplicaciones complejas.
+Al poseer una gran comunidad de desarrolladores, garantiza formación continua.
+
+Conclusiones
+En conclusión Symfony es un framework perfecto para el desarrollo web. Ya que permite un alto grado de personalización y automatización, 
+minimizando los errores habituales. En conclusión Symfony es un framework perfecto para el desarrollo web. 
+Ya que permite un alto grado de personalización y automatización, minimizando los errores habituales. 
+El framework de formularios es simplemente un framework para validar y guardar valores. Por tanto, un widget sólo debe gestionar su propia información. 
+Si la información es correcta, los diferentes valores validados pueden ser utilizados en el modelo o en el controlador.
